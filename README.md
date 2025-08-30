@@ -3,7 +3,7 @@
 I'm a **Mechanical Engineer & Programmer** passionate about coding, simulations, and building real-world projects.
 
 ## Technologies & Tools
-- Python | C | C++ | Zig | Assembly
+- Python | C | C++ | Rust | Zig | Assembly
 - Git & GitHub for version control
 - Linux (Debian & Arch)
 
