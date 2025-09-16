@@ -15,4 +15,4 @@ I'm a **Mechanical Engineer & Programmer** passionate about coding, simulations,
 ## Connect with me
 - GitHub: 
 - LinkedIn:
-- YouTube:
+- YouTube: https://www.youtube.com/@emmanuellogs
