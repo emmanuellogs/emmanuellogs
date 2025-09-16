@@ -9,7 +9,7 @@ I'm a **Mechanical Engineer & Programmer** passionate about coding, simulations,
 
 ## What I'm Learning
 - Machine code & Assembly (x86-64, ARM)
-- CFD with Python
+- FEA & CFD
 - Mandarin Chinese
 
 ## Connect with me
