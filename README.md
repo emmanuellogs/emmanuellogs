@@ -16,3 +16,5 @@ I'm a **Mechanical Engineer & Programmer** passionate about coding, simulations,
 - GitHub: 
 - LinkedIn:
 - YouTube: https://www.youtube.com/@emmanuellogs
+- YouTube: https://www.youtube.com/@emmanueltadenajr
+- YouTube: https://www.youtube.com/@tadenajr
