@@ -8,7 +8,7 @@ I'm a **Mechanical Engineer & Programmer** passionate about coding, simulations,
 - Linux (Debian & Arch)
 
 ## What I'm Learning
-- Machine code & Assembly (x86-64, ARM)
+- Assembly (x86-64, ARM)
 - FEA & CFD
 - Mandarin Chinese
 
